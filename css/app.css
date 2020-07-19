@@ -39,6 +39,7 @@
     text-align: center;
     padding: 10px;
     border: 1px solid #ccc;
+    border-radius: 5px;
     box-shadow: 0px 3px 6px #ccc;
 }
 
@@ -57,6 +58,7 @@
 
 .log ul li {
     margin: 5px;
+    border-radius: 4px;
 }
 
 .log ul .player-turn {
